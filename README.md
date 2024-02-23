@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
-- 🔭 I’m currently working on AWS Powershell Module
-- 🌱 I’m currently learning Docker/podman
-- 💬 Ask me about Powershell,AWS, chocolate 
-- 📫 How to reach me: Not that hard i think?
+- 🔭 I’m currently working on aranging IT related things (kinda vage isnt it)
+- 🌱 I’m currently learning git and how to train & present
+- 💬 Ask me about Powershell, git
+- 📫 How to reach me: Email, chat, google etc.
 - ⚡ Fun fact: I'm Skateboarding again(im 40+) since my son asked me to join the fun. 
